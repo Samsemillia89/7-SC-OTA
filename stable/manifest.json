@@ -1,19 +1,19 @@
 {
   "channel": "stable",
-  "version": "1.0.0",
-  "build": "2025-12-07T21:00:00Z",
+  "version": "main",
+  "build": "2025-12-10T20:18:47Z",
   "board": "esp32-s3",
   "minAppVersion": "1.0.0",
   "files": {
     "bin": {
       "url": "https://Samsemillia89.github.io/7-SC-OTA/stable/firmware.bin",
-      "size": 0,
-      "sha256": ""
+      "size": 1650400,
+      "sha256": "752f91db936df7a6d8377f4a59b54beb07a6f426bc207af34c4bdfb4c3bcf96e"
     }
   },
   "releaseNotes": {
-    "de": "Erste OTA-Version der 7 Segment Clock.",
-    "en": "First OTA version of the 7 Segment Clock."
+    "de": "Automatisch erstelltes OTA-Build.",
+    "en": "Automatically generated OTA build."
   },
   "flags": {
     "mandatory": false
