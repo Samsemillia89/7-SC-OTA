@@ -1,14 +1,14 @@
 {
   "channel": "stable",
   "version": "1.0.3",
-  "build": "2025-12-13T19:46:36Z",
+  "build": "2025-12-14T22:05:27Z",
   "board": "esp32-s3",
   "minAppVersion": "1.0.0",
   "files": {
     "bin": {
       "url": "https://samsemillia89.github.io/7-SC-OTA/stable/firmware.bin",
       "size": 1269632,
-      "sha256": "6449720b64bd46f700f258ab90bc8bca6ff450c7c3d8d77893ddb61e3eeaa9c0"
+      "sha256": "4b69e0ca067d421247c085b30d7c7b0083ed9c27ba23a69f717688a2adeafd67"
     }
   },
   "releaseNotes": {
