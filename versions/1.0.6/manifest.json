@@ -6,7 +6,7 @@
   "minAppVersion": "1.0.0",
   "files": {
     "bin": {
-      "url": "https://samsemillia89.github.io/7-SC-OTA/stable/firmware.bin",
+      "url": "https://samsemillia89.github.io/7-SC-OTA/versions/1.0.6/firmware.bin",
       "size": 1269088,
       "sha256": "9259085ab57408ee513ed79c0b7fc17639bc50bf6b986c8981fffeea27da5348"
     }
